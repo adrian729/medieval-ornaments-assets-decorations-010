@@ -1,0 +1,3364 @@
+[
+  {
+    "description": "A finite blue line filler with gold pips, unequal white waves, hatching and a curled terminal. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "wave",
+      "hatching",
+      "pip",
+      "terminal"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "white",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "blue-line-filler-with-white-waves-hatching-and-curled-terminal",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-179v",
+    "png": "png/blue-line-filler-with-white-waves-hatching-and-curled-terminal.png",
+    "webp": "webp/blue-line-filler-with-white-waves-hatching-and-curled-terminal.webp",
+    "width": 1261,
+    "height": 224,
+    "png_bytes": 444294,
+    "webp_bytes": 355430,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-line-filler-with-white-waves-hatching-and-curled-terminal.png",
+        "webp": "webp/128/blue-line-filler-with-white-waves-hatching-and-curled-terminal.webp",
+        "width": 128,
+        "height": 23,
+        "png_bytes": 6894,
+        "webp_bytes": 6264
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-line-filler-with-white-waves-hatching-and-curled-terminal.png",
+        "webp": "webp/256/blue-line-filler-with-white-waves-hatching-and-curled-terminal.webp",
+        "width": 256,
+        "height": 45,
+        "png_bytes": 23816,
+        "webp_bytes": 20736
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-line-filler-with-white-waves-hatching-and-curled-terminal.png",
+        "webp": "webp/512/blue-line-filler-with-white-waves-hatching-and-curled-terminal.webp",
+        "width": 512,
+        "height": 91,
+        "png_bytes": 85875,
+        "webp_bytes": 71606
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-line-filler-with-white-waves-hatching-and-curled-terminal.png",
+        "webp": "webp/768/blue-line-filler-with-white-waves-hatching-and-curled-terminal.webp",
+        "width": 768,
+        "height": 136,
+        "png_bytes": 180659,
+        "webp_bytes": 147446
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins",
+      "object_identifier": "W.82, fol. 179v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-179v-set",
+        "name": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins (walters-w82-179v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7676,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1261,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite two-color blue and rose-brown line filler with gold pips and a succession of pale curled strokes. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "pip",
+      "curl",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-blue-and-rose-band-with-gold-pips-and-white-curls",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-52r",
+    "png": "png/finite-blue-and-rose-band-with-gold-pips-and-white-curls.png",
+    "webp": "webp/finite-blue-and-rose-band-with-gold-pips-and-white-curls.webp",
+    "width": 1483,
+    "height": 260,
+    "png_bytes": 569524,
+    "webp_bytes": 485754,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-blue-and-rose-band-with-gold-pips-and-white-curls.png",
+        "webp": "webp/128/finite-blue-and-rose-band-with-gold-pips-and-white-curls.webp",
+        "width": 128,
+        "height": 22,
+        "png_bytes": 6877,
+        "webp_bytes": 5592
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-blue-and-rose-band-with-gold-pips-and-white-curls.png",
+        "webp": "webp/256/finite-blue-and-rose-band-with-gold-pips-and-white-curls.webp",
+        "width": 256,
+        "height": 45,
+        "png_bytes": 24144,
+        "webp_bytes": 19004
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-blue-and-rose-band-with-gold-pips-and-white-curls.png",
+        "webp": "webp/512/finite-blue-and-rose-band-with-gold-pips-and-white-curls.webp",
+        "width": 512,
+        "height": 90,
+        "png_bytes": 80836,
+        "webp_bytes": 64136
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-blue-and-rose-band-with-gold-pips-and-white-curls.png",
+        "webp": "webp/768/finite-blue-and-rose-band-with-gold-pips-and-white-curls.webp",
+        "width": 768,
+        "height": 135,
+        "png_bytes": 167331,
+        "webp_bytes": 138490
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with a fool before David enthroned; man carrying horse on back in margin",
+      "object_identifier": "W.82, fol. 52r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "988ffd4dc9788e4b74e3d84f10127faaaafb59991a1b9ac2bf45548b1464bccb",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000107_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-52r-set",
+        "name": "Initial \"D\" with a fool before David enthroned; man carrying horse on back in margin (walters-w82-52r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7249,
+      "height": 8361
+    },
+    "master_longest_dimension_cap": 1483,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Long original blue and rose-brown line filler with pale foliate waves, alternating small leaf marks and gold roundels in its blue middle section. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-blue-rose-white-foliate-waves-and-gold-roundels",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-blue-rose-white-foliate-waves-and-gold-roundels.png",
+    "webp": "webp/finite-blue-rose-white-foliate-waves-and-gold-roundels.webp",
+    "width": 2250,
+    "height": 236,
+    "png_bytes": 813709,
+    "webp_bytes": 686396,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-blue-rose-white-foliate-waves-and-gold-roundels.png",
+        "webp": "webp/128/finite-blue-rose-white-foliate-waves-and-gold-roundels.webp",
+        "width": 128,
+        "height": 13,
+        "png_bytes": 4252,
+        "webp_bytes": 3468
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-blue-rose-white-foliate-waves-and-gold-roundels.png",
+        "webp": "webp/256/finite-blue-rose-white-foliate-waves-and-gold-roundels.webp",
+        "width": 256,
+        "height": 27,
+        "png_bytes": 15042,
+        "webp_bytes": 12074
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-blue-rose-white-foliate-waves-and-gold-roundels.png",
+        "webp": "webp/512/finite-blue-rose-white-foliate-waves-and-gold-roundels.webp",
+        "width": 512,
+        "height": 54,
+        "png_bytes": 52044,
+        "webp_bytes": 42580
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-blue-rose-white-foliate-waves-and-gold-roundels.png",
+        "webp": "webp/768/finite-blue-rose-white-foliate-waves-and-gold-roundels.webp",
+        "width": 768,
+        "height": 81,
+        "png_bytes": 109606,
+        "webp_bytes": 89074
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 2250,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite blue painted band with four pale loop marks and pale inset bounding lines. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-four-white-loops-on-blue",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-four-white-loops-on-blue.png",
+    "webp": "webp/finite-four-white-loops-on-blue.webp",
+    "width": 538,
+    "height": 202,
+    "png_bytes": 174306,
+    "webp_bytes": 149522,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-four-white-loops-on-blue.png",
+        "webp": "webp/128/finite-four-white-loops-on-blue.webp",
+        "width": 128,
+        "height": 48,
+        "png_bytes": 12133,
+        "webp_bytes": 11678
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-four-white-loops-on-blue.png",
+        "webp": "webp/256/finite-four-white-loops-on-blue.webp",
+        "width": 256,
+        "height": 96,
+        "png_bytes": 44258,
+        "webp_bytes": 38962
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-four-white-loops-on-blue.png",
+        "webp": "webp/512/finite-four-white-loops-on-blue.webp",
+        "width": 512,
+        "height": 192,
+        "png_bytes": 158711,
+        "webp_bytes": 142812
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 538,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite rose-brown line filler with a gold pip, pale double-cross strokes and small adjoining pale marks. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-pip-and-double-white-cross-on-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-62v",
+    "png": "png/finite-gold-pip-and-double-white-cross-on-rose.png",
+    "webp": "webp/finite-gold-pip-and-double-white-cross-on-rose.webp",
+    "width": 449,
+    "height": 188,
+    "png_bytes": 137773,
+    "webp_bytes": 117102,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-pip-and-double-white-cross-on-rose.png",
+        "webp": "webp/128/finite-gold-pip-and-double-white-cross-on-rose.webp",
+        "width": 128,
+        "height": 54,
+        "png_bytes": 13884,
+        "webp_bytes": 11608
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-pip-and-double-white-cross-on-rose.png",
+        "webp": "webp/256/finite-gold-pip-and-double-white-cross-on-rose.webp",
+        "width": 256,
+        "height": 107,
+        "png_bytes": 48428,
+        "webp_bytes": 42070
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin",
+      "object_identifier": "W.82, fol. 62v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-62v-set",
+        "name": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin (walters-w82-62v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7479,
+      "height": 8340
+    },
+    "master_longest_dimension_cap": 449,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite rose-brown line filler with a gold pip and two pale pointed curled strokes. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-pip-and-white-double-ended-curl-on-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-62v",
+    "png": "png/finite-gold-pip-and-white-double-ended-curl-on-rose.png",
+    "webp": "webp/finite-gold-pip-and-white-double-ended-curl-on-rose.webp",
+    "width": 436,
+    "height": 226,
+    "png_bytes": 152746,
+    "webp_bytes": 133832,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-pip-and-white-double-ended-curl-on-rose.png",
+        "webp": "webp/128/finite-gold-pip-and-white-double-ended-curl-on-rose.webp",
+        "width": 128,
+        "height": 66,
+        "png_bytes": 16658,
+        "webp_bytes": 13684
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-pip-and-white-double-ended-curl-on-rose.png",
+        "webp": "webp/256/finite-gold-pip-and-white-double-ended-curl-on-rose.webp",
+        "width": 256,
+        "height": 133,
+        "png_bytes": 58194,
+        "webp_bytes": 50356
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin",
+      "object_identifier": "W.82, fol. 62v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-62v-set",
+        "name": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin (walters-w82-62v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7479,
+      "height": 8340
+    },
+    "master_longest_dimension_cap": 436,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite blue painted line filler with a gold pip, white wave and inset pale boundary lines. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-pip-and-white-wave-on-blue",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-gold-pip-and-white-wave-on-blue.png",
+    "webp": "webp/finite-gold-pip-and-white-wave-on-blue.webp",
+    "width": 654,
+    "height": 206,
+    "png_bytes": 233175,
+    "webp_bytes": 190434,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-pip-and-white-wave-on-blue.png",
+        "webp": "webp/128/finite-gold-pip-and-white-wave-on-blue.webp",
+        "width": 128,
+        "height": 40,
+        "png_bytes": 11287,
+        "webp_bytes": 9806
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-pip-and-white-wave-on-blue.png",
+        "webp": "webp/256/finite-gold-pip-and-white-wave-on-blue.webp",
+        "width": 256,
+        "height": 81,
+        "png_bytes": 41105,
+        "webp_bytes": 35926
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-pip-and-white-wave-on-blue.png",
+        "webp": "webp/512/finite-gold-pip-and-white-wave-on-blue.webp",
+        "width": 512,
+        "height": 161,
+        "png_bytes": 145974,
+        "webp_bytes": 130806
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 654,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A rose-brown finite painted band with original gold roundels and a white undulating stroke. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-roundels-and-white-wave-on-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-gold-roundels-and-white-wave-on-rose.png",
+    "webp": "webp/finite-gold-roundels-and-white-wave-on-rose.webp",
+    "width": 1074,
+    "height": 209,
+    "png_bytes": 375852,
+    "webp_bytes": 305788,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-roundels-and-white-wave-on-rose.png",
+        "webp": "webp/128/finite-gold-roundels-and-white-wave-on-rose.webp",
+        "width": 128,
+        "height": 25,
+        "png_bytes": 7644,
+        "webp_bytes": 6136
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-roundels-and-white-wave-on-rose.png",
+        "webp": "webp/256/finite-gold-roundels-and-white-wave-on-rose.webp",
+        "width": 256,
+        "height": 50,
+        "png_bytes": 26711,
+        "webp_bytes": 22092
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-roundels-and-white-wave-on-rose.png",
+        "webp": "webp/512/finite-gold-roundels-and-white-wave-on-rose.webp",
+        "width": 512,
+        "height": 100,
+        "png_bytes": 93281,
+        "webp_bytes": 77700
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-gold-roundels-and-white-wave-on-rose.png",
+        "webp": "webp/768/finite-gold-roundels-and-white-wave-on-rose.webp",
+        "width": 768,
+        "height": 149,
+        "png_bytes": 195915,
+        "webp_bytes": 166964
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1074,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An original finite gold wave separating blue and rose-brown painted fields, with a fine pale zigzag on the blue portion. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-wave-and-white-zigzag-over-blue-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-62v",
+    "png": "png/finite-gold-wave-and-white-zigzag-over-blue-rose.png",
+    "webp": "webp/finite-gold-wave-and-white-zigzag-over-blue-rose.webp",
+    "width": 705,
+    "height": 237,
+    "png_bytes": 262036,
+    "webp_bytes": 225192,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-wave-and-white-zigzag-over-blue-rose.png",
+        "webp": "webp/128/finite-gold-wave-and-white-zigzag-over-blue-rose.webp",
+        "width": 128,
+        "height": 43,
+        "png_bytes": 11463,
+        "webp_bytes": 9446
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-wave-and-white-zigzag-over-blue-rose.png",
+        "webp": "webp/256/finite-gold-wave-and-white-zigzag-over-blue-rose.webp",
+        "width": 256,
+        "height": 86,
+        "png_bytes": 40428,
+        "webp_bytes": 34098
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-wave-and-white-zigzag-over-blue-rose.png",
+        "webp": "webp/512/finite-gold-wave-and-white-zigzag-over-blue-rose.webp",
+        "width": 512,
+        "height": 172,
+        "png_bytes": 142893,
+        "webp_bytes": 124344
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin",
+      "object_identifier": "W.82, fol. 62v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-62v-set",
+        "name": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin (walters-w82-62v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7479,
+      "height": 8340
+    },
+    "master_longest_dimension_cap": 705,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite hand-painted gold wave separating a dotted blue field from a rose-brown field, within the original dark outline. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "wave",
+      "dot",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "blue",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-wave-over-blue-and-rose-ground",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-31r",
+    "png": "png/finite-gold-wave-over-blue-and-rose-ground.png",
+    "webp": "webp/finite-gold-wave-over-blue-and-rose-ground.webp",
+    "width": 1036,
+    "height": 256,
+    "png_bytes": 409508,
+    "webp_bytes": 333166,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-wave-over-blue-and-rose-ground.png",
+        "webp": "webp/128/finite-gold-wave-over-blue-and-rose-ground.webp",
+        "width": 128,
+        "height": 32,
+        "png_bytes": 9643,
+        "webp_bytes": 7990
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-wave-over-blue-and-rose-ground.png",
+        "webp": "webp/256/finite-gold-wave-over-blue-and-rose-ground.webp",
+        "width": 256,
+        "height": 63,
+        "png_bytes": 32025,
+        "webp_bytes": 26184
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-wave-over-blue-and-rose-ground.png",
+        "webp": "webp/512/finite-gold-wave-over-blue-and-rose-ground.webp",
+        "width": 512,
+        "height": 127,
+        "png_bytes": 110937,
+        "webp_bytes": 93908
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-gold-wave-over-blue-and-rose-ground.png",
+        "webp": "webp/768/finite-gold-wave-over-blue-and-rose-ground.webp",
+        "width": 768,
+        "height": 190,
+        "png_bytes": 232782,
+        "webp_bytes": 202576
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins",
+      "object_identifier": "W.82, fol. 31r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-31r-set",
+        "name": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins (walters-w82-31r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7582,
+      "height": 8433
+    },
+    "master_longest_dimension_cap": 1036,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite rose-brown and blue band with paired gold roundels and a pale foliate wave between its original thin inset lines. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "blue",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-62v",
+    "png": "png/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.png",
+    "webp": "webp/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.webp",
+    "width": 854,
+    "height": 228,
+    "png_bytes": 315419,
+    "webp_bytes": 255744,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.png",
+        "webp": "webp/128/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.webp",
+        "width": 128,
+        "height": 34,
+        "png_bytes": 9907,
+        "webp_bytes": 8240
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.png",
+        "webp": "webp/256/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.webp",
+        "width": 256,
+        "height": 68,
+        "png_bytes": 34494,
+        "webp_bytes": 28990
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.png",
+        "webp": "webp/512/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.webp",
+        "width": 512,
+        "height": 137,
+        "png_bytes": 121957,
+        "webp_bytes": 104640
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.png",
+        "webp": "webp/768/finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue.webp",
+        "width": 768,
+        "height": 205,
+        "png_bytes": 257433,
+        "webp_bytes": 230236
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin",
+      "object_identifier": "W.82, fol. 62v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-62v-set",
+        "name": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin (walters-w82-62v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7479,
+      "height": 8340
+    },
+    "master_longest_dimension_cap": 854,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite two-color blue and rose-brown painted band with paired gold roundels and white waved marks. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-paired-gold-roundels-and-white-waves-on-blue-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-paired-gold-roundels-and-white-waves-on-blue-rose.png",
+    "webp": "webp/finite-paired-gold-roundels-and-white-waves-on-blue-rose.webp",
+    "width": 847,
+    "height": 209,
+    "png_bytes": 293493,
+    "webp_bytes": 245462,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-paired-gold-roundels-and-white-waves-on-blue-rose.png",
+        "webp": "webp/128/finite-paired-gold-roundels-and-white-waves-on-blue-rose.webp",
+        "width": 128,
+        "height": 32,
+        "png_bytes": 9124,
+        "webp_bytes": 7700
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-paired-gold-roundels-and-white-waves-on-blue-rose.png",
+        "webp": "webp/256/finite-paired-gold-roundels-and-white-waves-on-blue-rose.webp",
+        "width": 256,
+        "height": 63,
+        "png_bytes": 31852,
+        "webp_bytes": 26826
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-paired-gold-roundels-and-white-waves-on-blue-rose.png",
+        "webp": "webp/512/finite-paired-gold-roundels-and-white-waves-on-blue-rose.webp",
+        "width": 512,
+        "height": 126,
+        "png_bytes": 113700,
+        "webp_bytes": 98776
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-paired-gold-roundels-and-white-waves-on-blue-rose.png",
+        "webp": "webp/768/finite-paired-gold-roundels-and-white-waves-on-blue-rose.webp",
+        "width": 768,
+        "height": 190,
+        "png_bytes": 242164,
+        "webp_bytes": 215946
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 847,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two gold roundels on a finite rose-brown line filler with pale curled strokes and the original dark outline. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "roundel",
+      "line",
+      "curl"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-paired-gold-roundels-on-rose-band",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-31r",
+    "png": "png/finite-paired-gold-roundels-on-rose-band.png",
+    "webp": "webp/finite-paired-gold-roundels-on-rose-band.webp",
+    "width": 593,
+    "height": 247,
+    "png_bytes": 222347,
+    "webp_bytes": 190792,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-paired-gold-roundels-on-rose-band.png",
+        "webp": "webp/128/finite-paired-gold-roundels-on-rose-band.webp",
+        "width": 128,
+        "height": 53,
+        "png_bytes": 13706,
+        "webp_bytes": 11202
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-paired-gold-roundels-on-rose-band.png",
+        "webp": "webp/256/finite-paired-gold-roundels-on-rose-band.webp",
+        "width": 256,
+        "height": 107,
+        "png_bytes": 47427,
+        "webp_bytes": 39966
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-paired-gold-roundels-on-rose-band.png",
+        "webp": "webp/512/finite-paired-gold-roundels-on-rose-band.webp",
+        "width": 512,
+        "height": 213,
+        "png_bytes": 167779,
+        "webp_bytes": 145190
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins",
+      "object_identifier": "W.82, fol. 31r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-31r-set",
+        "name": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins (walters-w82-31r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7582,
+      "height": 8433
+    },
+    "master_longest_dimension_cap": 593,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original finite rose-brown and blue painted line filler with a single gold roundel and a looped pale wave. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-single-gold-roundel-and-looped-white-wave-on-rose-blue",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.png",
+    "webp": "webp/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.webp",
+    "width": 764,
+    "height": 205,
+    "png_bytes": 267168,
+    "webp_bytes": 224632,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.png",
+        "webp": "webp/128/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.webp",
+        "width": 128,
+        "height": 34,
+        "png_bytes": 9939,
+        "webp_bytes": 8360
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.png",
+        "webp": "webp/256/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.webp",
+        "width": 256,
+        "height": 69,
+        "png_bytes": 35578,
+        "webp_bytes": 29938
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.png",
+        "webp": "webp/512/finite-single-gold-roundel-and-looped-white-wave-on-rose-blue.webp",
+        "width": 512,
+        "height": 137,
+        "png_bytes": 124327,
+        "webp_bytes": 103512
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 764,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite blue and rose-brown line filler with three gold roundels and a fine pale zigzag running through the original inset borders. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-three-gold-roundels-and-white-zigzag-on-blue-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.png",
+    "webp": "webp/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.webp",
+    "width": 1353,
+    "height": 223,
+    "png_bytes": 476741,
+    "webp_bytes": 411316,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.png",
+        "webp": "webp/128/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.webp",
+        "width": 128,
+        "height": 21,
+        "png_bytes": 6196,
+        "webp_bytes": 5230
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.png",
+        "webp": "webp/256/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.webp",
+        "width": 256,
+        "height": 42,
+        "png_bytes": 21504,
+        "webp_bytes": 18066
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.png",
+        "webp": "webp/512/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.webp",
+        "width": 512,
+        "height": 84,
+        "png_bytes": 77138,
+        "webp_bytes": 63340
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.png",
+        "webp": "webp/768/finite-three-gold-roundels-and-white-zigzag-on-blue-rose.webp",
+        "width": 768,
+        "height": 127,
+        "png_bytes": 163655,
+        "webp_bytes": 139492
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1353,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite blue line filler with a gold pip and white crossed diagonal strokes inside pale bounding lines. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "cross",
+      "pip"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-white-crossed-strokes-and-gold-pip-on-blue",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-31r",
+    "png": "png/finite-white-crossed-strokes-and-gold-pip-on-blue.png",
+    "webp": "webp/finite-white-crossed-strokes-and-gold-pip-on-blue.webp",
+    "width": 558,
+    "height": 261,
+    "png_bytes": 191441,
+    "webp_bytes": 160008,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-white-crossed-strokes-and-gold-pip-on-blue.png",
+        "webp": "webp/128/finite-white-crossed-strokes-and-gold-pip-on-blue.webp",
+        "width": 128,
+        "height": 60,
+        "png_bytes": 13870,
+        "webp_bytes": 11576
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-white-crossed-strokes-and-gold-pip-on-blue.png",
+        "webp": "webp/256/finite-white-crossed-strokes-and-gold-pip-on-blue.webp",
+        "width": 256,
+        "height": 120,
+        "png_bytes": 47190,
+        "webp_bytes": 40750
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-white-crossed-strokes-and-gold-pip-on-blue.png",
+        "webp": "webp/512/finite-white-crossed-strokes-and-gold-pip-on-blue.webp",
+        "width": 512,
+        "height": 239,
+        "png_bytes": 163093,
+        "webp_bytes": 145584
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins",
+      "object_identifier": "W.82, fol. 31r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-31r-set",
+        "name": "Initial \"D\" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins (walters-w82-31r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7582,
+      "height": 8433
+    },
+    "master_longest_dimension_cap": 558,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A rose-brown painted line filler with a white zigzag, alternating pale dots and its original bounding lines. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "band",
+      "line",
+      "wave",
+      "dot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-white-zigzag-and-alternating-dots-on-rose",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/finite-white-zigzag-and-alternating-dots-on-rose.png",
+    "webp": "webp/finite-white-zigzag-and-alternating-dots-on-rose.webp",
+    "width": 549,
+    "height": 217,
+    "png_bytes": 182223,
+    "webp_bytes": 154450,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-white-zigzag-and-alternating-dots-on-rose.png",
+        "webp": "webp/128/finite-white-zigzag-and-alternating-dots-on-rose.webp",
+        "width": 128,
+        "height": 51,
+        "png_bytes": 12744,
+        "webp_bytes": 10360
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-white-zigzag-and-alternating-dots-on-rose.png",
+        "webp": "webp/256/finite-white-zigzag-and-alternating-dots-on-rose.webp",
+        "width": 256,
+        "height": 101,
+        "png_bytes": 44163,
+        "webp_bytes": 37188
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-white-zigzag-and-alternating-dots-on-rose.png",
+        "webp": "webp/512/finite-white-zigzag-and-alternating-dots-on-rose.webp",
+        "width": 512,
+        "height": 202,
+        "png_bytes": 159712,
+        "webp_bytes": 138244
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite line filler with its actual end caps and original hand-painted variation. Colored fields are intrinsic artwork and remain opaque. Exterior paper and adjacent writing are removed. This asset is the original finite decoration; it has no repeating atlas or newly invented corners.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 549,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original finite blue/gilt foliate left and lower manuscript margin with curled folded leaves and a brown/orange forked terminal. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "stem",
+      "vine",
+      "scroll",
+      "border"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "composition": "single-ornament",
+    "name": "fixed-blue-gold-foliate-left-and-bottom-margin-border",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-62v",
+    "png": "png/fixed-blue-gold-foliate-left-and-bottom-margin-border.png",
+    "webp": "webp/fixed-blue-gold-foliate-left-and-bottom-margin-border.webp",
+    "width": 4666,
+    "height": 7289,
+    "png_bytes": 5991005,
+    "webp_bytes": 4906272,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fixed-blue-gold-foliate-left-and-bottom-margin-border.png",
+        "webp": "webp/128/fixed-blue-gold-foliate-left-and-bottom-margin-border.webp",
+        "width": 82,
+        "height": 128,
+        "png_bytes": 6416,
+        "webp_bytes": 4716
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fixed-blue-gold-foliate-left-and-bottom-margin-border.png",
+        "webp": "webp/256/fixed-blue-gold-foliate-left-and-bottom-margin-border.webp",
+        "width": 164,
+        "height": 256,
+        "png_bytes": 18690,
+        "webp_bytes": 14238
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fixed-blue-gold-foliate-left-and-bottom-margin-border.png",
+        "webp": "webp/512/fixed-blue-gold-foliate-left-and-bottom-margin-border.webp",
+        "width": 328,
+        "height": 512,
+        "png_bytes": 57663,
+        "webp_bytes": 45778
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fixed-blue-gold-foliate-left-and-bottom-margin-border.png",
+        "webp": "webp/768/fixed-blue-gold-foliate-left-and-bottom-margin-border.webp",
+        "width": 492,
+        "height": 768,
+        "png_bytes": 112759,
+        "webp_bytes": 85982
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin",
+      "object_identifier": "W.82, fol. 62v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite original margin with its actual bowed blue/gold spine, folded leaves and lower brown fork. Figure occlusions interrupt the lower stem and upright fork; concealed paint is not reconstructed. The intact ape gripping the upper leafy stalk is separately available. This source establishes no regular repeat or reusable generic frame corner; use as a whole finite ornament.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-62v-set",
+        "name": "Initial \"S\" with David in the water below God, who blesses him; ape rides unicorn in margin (walters-w82-62v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7479,
+      "height": 8340
+    },
+    "master_longest_dimension_cap": 7289,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Whole blue and gilt margin border with a curving upper vine, a long bowed left stem, folded foliate scrolls, gilt serrations and a lower fork of blue, brown and orange leaves. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "leaf",
+      "stem",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "orange",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "fixed-blue-gold-foliate-left-and-top-margin-border",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/fixed-blue-gold-foliate-left-and-top-margin-border.png",
+    "webp": "webp/fixed-blue-gold-foliate-left-and-top-margin-border.webp",
+    "width": 3927,
+    "height": 7439,
+    "png_bytes": 5450321,
+    "webp_bytes": 4447436,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fixed-blue-gold-foliate-left-and-top-margin-border.png",
+        "webp": "webp/128/fixed-blue-gold-foliate-left-and-top-margin-border.webp",
+        "width": 68,
+        "height": 128,
+        "png_bytes": 5886,
+        "webp_bytes": 4150
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fixed-blue-gold-foliate-left-and-top-margin-border.png",
+        "webp": "webp/256/fixed-blue-gold-foliate-left-and-top-margin-border.webp",
+        "width": 135,
+        "height": 256,
+        "png_bytes": 16748,
+        "webp_bytes": 12270
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fixed-blue-gold-foliate-left-and-top-margin-border.png",
+        "webp": "webp/512/fixed-blue-gold-foliate-left-and-top-margin-border.webp",
+        "width": 270,
+        "height": 512,
+        "png_bytes": 49995,
+        "webp_bytes": 38468
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fixed-blue-gold-foliate-left-and-top-margin-border.png",
+        "webp": "webp/768/fixed-blue-gold-foliate-left-and-top-margin-border.webp",
+        "width": 405,
+        "height": 768,
+        "png_bytes": 96304,
+        "webp_bytes": 72426
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Connected original foliate margin border retained as a finite whole ornament; original hand-varied curls and serrations do not establish a uniform repeat. Original occlusions at neighboring initials and figures remain visible-source limitations; no hidden border paint is reconstructed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 7439,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original fixed manuscript arcade with paired twisted red columns, green capitals, gold lintel and scalloped red-and-gold semicircular arch. Part of the Walters W.7 Matthew portrait ornaments set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "column",
+      "arch",
+      "capital"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "gold",
+      "green",
+      "blue"
+    ],
+    "composition": "standalone",
+    "name": "fixed-twisted-column-arcade-with-scalloped-arch",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-15v",
+    "png": "png/fixed-twisted-column-arcade-with-scalloped-arch.png",
+    "webp": "webp/fixed-twisted-column-arcade-with-scalloped-arch.webp",
+    "width": 3963,
+    "height": 5856,
+    "png_bytes": 11551065,
+    "webp_bytes": 9162086,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fixed-twisted-column-arcade-with-scalloped-arch.png",
+        "webp": "webp/128/fixed-twisted-column-arcade-with-scalloped-arch.webp",
+        "width": 87,
+        "height": 128,
+        "png_bytes": 12721,
+        "webp_bytes": 11072
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fixed-twisted-column-arcade-with-scalloped-arch.png",
+        "webp": "webp/256/fixed-twisted-column-arcade-with-scalloped-arch.webp",
+        "width": 173,
+        "height": 256,
+        "png_bytes": 38752,
+        "webp_bytes": 30650
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fixed-twisted-column-arcade-with-scalloped-arch.png",
+        "webp": "webp/512/fixed-twisted-column-arcade-with-scalloped-arch.webp",
+        "width": 346,
+        "height": 512,
+        "png_bytes": 126551,
+        "webp_bytes": 97266
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fixed-twisted-column-arcade-with-scalloped-arch.png",
+        "webp": "webp/768/fixed-twisted-column-arcade-with-scalloped-arch.webp",
+        "width": 520,
+        "height": 768,
+        "png_bytes": 261122,
+        "webp_bytes": 201186
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Portrait of the Evangelist Matthew",
+      "object_identifier": "W.7, fol. 15v",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole original scalloped arch, lintel and paired twisted columns with unequal bases. Original native shading, green capitals and blue-gray folds remain opaque. The original angel wing overlaps the inner gilt arch at its apex; that source-visible notch is retained when the separate angel is removed, without reconstructing hidden gold. No repeat, fabricated corner, hidden paint or SVG redraw.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-15v-set",
+        "name": "Walters W.7 Matthew portrait ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8501,
+      "height": 10092
+    },
+    "master_longest_dimension_cap": 5856,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A long brown foliate vine has large curled loops, fine side branchlets and blue, green and gold leaves. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "stem",
+      "leaf",
+      "curl",
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "blue",
+      "green",
+      "gold",
+      "cream"
+    ],
+    "composition": "standalone",
+    "name": "long-brown-foliate-vine-with-blue-green-and-gold-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-52r",
+    "png": "png/long-brown-foliate-vine-with-blue-green-and-gold-leaves.png",
+    "webp": "webp/long-brown-foliate-vine-with-blue-green-and-gold-leaves.webp",
+    "width": 774,
+    "height": 4209,
+    "png_bytes": 2207221,
+    "webp_bytes": 1765350,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/long-brown-foliate-vine-with-blue-green-and-gold-leaves.png",
+        "webp": "webp/128/long-brown-foliate-vine-with-blue-green-and-gold-leaves.webp",
+        "width": 24,
+        "height": 128,
+        "png_bytes": 6456,
+        "webp_bytes": 4722
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/long-brown-foliate-vine-with-blue-green-and-gold-leaves.png",
+        "webp": "webp/256/long-brown-foliate-vine-with-blue-green-and-gold-leaves.webp",
+        "width": 47,
+        "height": 256,
+        "png_bytes": 18227,
+        "webp_bytes": 13876
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/long-brown-foliate-vine-with-blue-green-and-gold-leaves.png",
+        "webp": "webp/512/long-brown-foliate-vine-with-blue-green-and-gold-leaves.webp",
+        "width": 94,
+        "height": 512,
+        "png_bytes": 55078,
+        "webp_bytes": 42228
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/long-brown-foliate-vine-with-blue-green-and-gold-leaves.png",
+        "webp": "webp/768/long-brown-foliate-vine-with-blue-green-and-gold-leaves.webp",
+        "width": 141,
+        "height": 768,
+        "png_bytes": 107359,
+        "webp_bytes": 82228
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with a fool before David enthroned; man carrying horse on back in margin",
+      "object_identifier": "W.82, fol. 52r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "988ffd4dc9788e4b74e3d84f10127faaaafb59991a1b9ac2bf45548b1464bccb",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000107_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite original vertical foliate vine with its complete pointed upper leaf, curling brown stem, blue/green/gold leaves, genuine loop openings and rolled lower terminal. The source input is expanded above the original extraction to recover the actual visible upper leaf; the unrelated gilt page-frame strip is excluded from the base. Painted pale leaf interiors remain opaque, exterior paper and loop openings transparent. Original scan wear and paint texture remain, with no enlargement, inferred cycle, reconstructed paint or approximate SVG. The physically separate orange-robed winged figure is available independently.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-52r-set",
+        "name": "Initial \"D\" with a fool before David enthroned; man carrying horse on back in margin (walters-w82-52r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7249,
+      "height": 8361
+    },
+    "master_longest_dimension_cap": 4209,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: long left blue and gold rod with two profile heads. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "long-left-blue-and-gold-rod-with-two-profile-heads",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/long-left-blue-and-gold-rod-with-two-profile-heads.png",
+    "webp": "webp/long-left-blue-and-gold-rod-with-two-profile-heads.webp",
+    "width": 421,
+    "height": 2100,
+    "png_bytes": 645606,
+    "webp_bytes": 472754,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/long-left-blue-and-gold-rod-with-two-profile-heads.png",
+        "webp": "webp/128/long-left-blue-and-gold-rod-with-two-profile-heads.webp",
+        "width": 26,
+        "height": 128,
+        "png_bytes": 5058,
+        "webp_bytes": 4550
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/long-left-blue-and-gold-rod-with-two-profile-heads.png",
+        "webp": "webp/256/long-left-blue-and-gold-rod-with-two-profile-heads.webp",
+        "width": 51,
+        "height": 256,
+        "png_bytes": 15649,
+        "webp_bytes": 13870
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/long-left-blue-and-gold-rod-with-two-profile-heads.png",
+        "webp": "webp/512/long-left-blue-and-gold-rod-with-two-profile-heads.webp",
+        "width": 103,
+        "height": 512,
+        "png_bytes": 52338,
+        "webp_bytes": 40656
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/long-left-blue-and-gold-rod-with-two-profile-heads.png",
+        "webp": "webp/768/long-left-blue-and-gold-rod-with-two-profile-heads.webp",
+        "width": 154,
+        "height": 768,
+        "png_bytes": 106874,
+        "webp_bytes": 81610
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 2100,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: lower black foliate curl. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "lower-black-foliate-curl",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/lower-black-foliate-curl.png",
+    "webp": "webp/lower-black-foliate-curl.webp",
+    "width": 1030,
+    "height": 734,
+    "png_bytes": 226392,
+    "webp_bytes": 155220,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-black-foliate-curl.png",
+        "webp": "webp/128/lower-black-foliate-curl.webp",
+        "width": 128,
+        "height": 91,
+        "png_bytes": 6932,
+        "webp_bytes": 4768
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-black-foliate-curl.png",
+        "webp": "webp/256/lower-black-foliate-curl.webp",
+        "width": 256,
+        "height": 182,
+        "png_bytes": 21165,
+        "webp_bytes": 14430
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-black-foliate-curl.png",
+        "webp": "webp/512/lower-black-foliate-curl.webp",
+        "width": 512,
+        "height": 365,
+        "png_bytes": 66892,
+        "webp_bytes": 46930
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lower-black-foliate-curl.png",
+        "webp": "webp/768/lower-black-foliate-curl.webp",
+        "width": 768,
+        "height": 547,
+        "png_bytes": 135959,
+        "webp_bytes": 94738
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 1030,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: lower profile head on long blue and gold rod. Part of the Walters W.88 Dancing Monkeys set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "lower-profile-head-on-long-blue-and-gold-rod",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-136r",
+    "png": "png/lower-profile-head-on-long-blue-and-gold-rod.png",
+    "webp": "webp/lower-profile-head-on-long-blue-and-gold-rod.webp",
+    "width": 437,
+    "height": 2106,
+    "png_bytes": 744069,
+    "webp_bytes": 540234,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-profile-head-on-long-blue-and-gold-rod.png",
+        "webp": "webp/128/lower-profile-head-on-long-blue-and-gold-rod.webp",
+        "width": 27,
+        "height": 128,
+        "png_bytes": 5423,
+        "webp_bytes": 4954
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-profile-head-on-long-blue-and-gold-rod.png",
+        "webp": "webp/256/lower-profile-head-on-long-blue-and-gold-rod.webp",
+        "width": 53,
+        "height": 256,
+        "png_bytes": 16903,
+        "webp_bytes": 15440
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-profile-head-on-long-blue-and-gold-rod.png",
+        "webp": "webp/512/lower-profile-head-on-long-blue-and-gold-rod.webp",
+        "width": 106,
+        "height": 512,
+        "png_bytes": 57196,
+        "webp_bytes": 44014
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lower-profile-head-on-long-blue-and-gold-rod.png",
+        "webp": "webp/768/lower-profile-head-on-long-blue-and-gold-rod.webp",
+        "width": 159,
+        "height": 768,
+        "png_bytes": 118682,
+        "webp_bytes": 89130
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Dancing monkeys",
+      "object_identifier": "W.88, fol. 136r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-136r-set",
+        "name": "Walters W.88 Dancing Monkeys"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6216,
+      "height": 7902
+    },
+    "master_longest_dimension_cap": 2106,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An orange trefoil flower with its original white painted outline and central white highlights, isolated from the surrounding alphabetic vine. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "orange",
+      "blue",
+      "green",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "orange-trefoil-flower-with-white-painted-outline",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/orange-trefoil-flower-with-white-painted-outline.png",
+    "webp": "webp/orange-trefoil-flower-with-white-painted-outline.webp",
+    "width": 283,
+    "height": 274,
+    "png_bytes": 87868,
+    "webp_bytes": 72808,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/orange-trefoil-flower-with-white-painted-outline.png",
+        "webp": "webp/128/orange-trefoil-flower-with-white-painted-outline.webp",
+        "width": 128,
+        "height": 124,
+        "png_bytes": 21239,
+        "webp_bytes": 18274
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/orange-trefoil-flower-with-white-painted-outline.png",
+        "webp": "webp/256/orange-trefoil-flower-with-white-painted-outline.webp",
+        "width": 256,
+        "height": 248,
+        "png_bytes": 73453,
+        "webp_bytes": 61896
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original leaf or bloom is usable independently. The shared alphabetic blue stroke and surrounding letter are excluded; no severed curl is presented as a complete vine.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 283,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Independent red quatrefoil with four rounded lobes and original brush texture, from a green field in the medieval wind wheel. Original asymmetry and source wear remain. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "quatrefoil",
+      "rounded-lobe"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "red-four-lobed-quatrefoil-from-wind-wheel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/red-four-lobed-quatrefoil-from-wind-wheel.png",
+    "webp": "webp/red-four-lobed-quatrefoil-from-wind-wheel.webp",
+    "width": 252,
+    "height": 246,
+    "png_bytes": 66537,
+    "webp_bytes": 53382,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-four-lobed-quatrefoil-from-wind-wheel.png",
+        "webp": "webp/128/red-four-lobed-quatrefoil-from-wind-wheel.webp",
+        "width": 128,
+        "height": 125,
+        "png_bytes": 19407,
+        "webp_bytes": 16590
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite independent source motif. The wheel repeats hand-varied quatrefoils radially; this does not establish a native straight repeat or frame corner. Retain the source asymmetry and texture; no SVG approximation or invented atlas. Other similar wheel quatrefoils remain source references rather than redundant near-duplicate exports.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 252,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A black curling leaf flourish on a short blue and gold stem. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "curl",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "blue",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "right-black-leaf-curl-on-blue-and-gold-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/right-black-leaf-curl-on-blue-and-gold-stem.png",
+    "webp": "webp/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+    "width": 687,
+    "height": 1026,
+    "png_bytes": 333416,
+    "webp_bytes": 241030,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-black-leaf-curl-on-blue-and-gold-stem.png",
+        "webp": "webp/128/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+        "width": 86,
+        "height": 128,
+        "png_bytes": 8818,
+        "webp_bytes": 6816
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-black-leaf-curl-on-blue-and-gold-stem.png",
+        "webp": "webp/256/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+        "width": 171,
+        "height": 256,
+        "png_bytes": 28426,
+        "webp_bytes": 22022
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-black-leaf-curl-on-blue-and-gold-stem.png",
+        "webp": "webp/512/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+        "width": 343,
+        "height": 512,
+        "png_bytes": 94538,
+        "webp_bytes": 70272
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/right-black-leaf-curl-on-blue-and-gold-stem.png",
+        "webp": "webp/768/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+        "width": 514,
+        "height": 768,
+        "png_bytes": 198737,
+        "webp_bytes": 145364
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 1026,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pointed blue and gold foliate swash projecting from a decorated letter. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "terminal",
+      "flourish"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "right-pointed-blue-and-gold-leaf-swash",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/right-pointed-blue-and-gold-leaf-swash.png",
+    "webp": "webp/right-pointed-blue-and-gold-leaf-swash.webp",
+    "width": 586,
+    "height": 397,
+    "png_bytes": 205811,
+    "webp_bytes": 158424,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-pointed-blue-and-gold-leaf-swash.png",
+        "webp": "webp/128/right-pointed-blue-and-gold-leaf-swash.webp",
+        "width": 128,
+        "height": 87,
+        "png_bytes": 13433,
+        "webp_bytes": 11266
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-pointed-blue-and-gold-leaf-swash.png",
+        "webp": "webp/256/right-pointed-blue-and-gold-leaf-swash.webp",
+        "width": 256,
+        "height": 173,
+        "png_bytes": 45156,
+        "webp_bytes": 35306
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/right-pointed-blue-and-gold-leaf-swash.png",
+        "webp": "webp/512/right-pointed-blue-and-gold-leaf-swash.webp",
+        "width": 512,
+        "height": 347,
+        "png_bytes": 160628,
+        "webp_bytes": 125638
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 586,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: short blue and gold curled leaf terminal. Part of the Walters W.88 Dancing Monkeys set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "short-blue-and-gold-curled-leaf-terminal",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-136r",
+    "png": "png/short-blue-and-gold-curled-leaf-terminal.png",
+    "webp": "webp/short-blue-and-gold-curled-leaf-terminal.webp",
+    "width": 560,
+    "height": 388,
+    "png_bytes": 222312,
+    "webp_bytes": 164712,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/short-blue-and-gold-curled-leaf-terminal.png",
+        "webp": "webp/128/short-blue-and-gold-curled-leaf-terminal.webp",
+        "width": 128,
+        "height": 89,
+        "png_bytes": 14802,
+        "webp_bytes": 11968
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/short-blue-and-gold-curled-leaf-terminal.png",
+        "webp": "webp/256/short-blue-and-gold-curled-leaf-terminal.webp",
+        "width": 256,
+        "height": 177,
+        "png_bytes": 51490,
+        "webp_bytes": 40012
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/short-blue-and-gold-curled-leaf-terminal.png",
+        "webp": "webp/512/short-blue-and-gold-curled-leaf-terminal.webp",
+        "width": 512,
+        "height": 355,
+        "png_bytes": 186668,
+        "webp_bytes": 142420
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Dancing monkeys",
+      "object_identifier": "W.88, fol. 136r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-136r-set",
+        "name": "Walters W.88 Dancing Monkeys"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6216,
+      "height": 7902
+    },
+    "master_longest_dimension_cap": 560,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: upper blue and gold margin with three grotesque heads. Part of the Walters W.88 Monkey Choir set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "upper-blue-and-gold-margin-with-three-grotesque-heads",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-52r",
+    "png": "png/upper-blue-and-gold-margin-with-three-grotesque-heads.png",
+    "webp": "webp/upper-blue-and-gold-margin-with-three-grotesque-heads.webp",
+    "width": 2125,
+    "height": 585,
+    "png_bytes": 911777,
+    "webp_bytes": 659300,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-blue-and-gold-margin-with-three-grotesque-heads.png",
+        "webp": "webp/128/upper-blue-and-gold-margin-with-three-grotesque-heads.webp",
+        "width": 128,
+        "height": 35,
+        "png_bytes": 6934,
+        "webp_bytes": 5822
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-blue-and-gold-margin-with-three-grotesque-heads.png",
+        "webp": "webp/256/upper-blue-and-gold-margin-with-three-grotesque-heads.webp",
+        "width": 256,
+        "height": 70,
+        "png_bytes": 22103,
+        "webp_bytes": 16992
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-blue-and-gold-margin-with-three-grotesque-heads.png",
+        "webp": "webp/512/upper-blue-and-gold-margin-with-three-grotesque-heads.webp",
+        "width": 512,
+        "height": 141,
+        "png_bytes": 74386,
+        "webp_bytes": 54016
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-blue-and-gold-margin-with-three-grotesque-heads.png",
+        "webp": "webp/768/upper-blue-and-gold-margin-with-three-grotesque-heads.webp",
+        "width": 768,
+        "height": 211,
+        "png_bytes": 150260,
+        "webp_bytes": 107254
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Monkeys singing",
+      "object_identifier": "W.88, fol. 52r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-52r-set",
+        "name": "Walters W.88 Monkey Choir"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6102,
+      "height": 7954
+    },
+    "master_longest_dimension_cap": 2125,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite original manuscript marginal flourish: upper hooded head on bent gold rod. Part of the Walters W.88 Dancing Monkeys set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "flourish",
+      "leaf",
+      "stem",
+      "margin"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "upper-hooded-head-on-bent-gold-rod",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w88-136r",
+    "png": "png/upper-hooded-head-on-bent-gold-rod.png",
+    "webp": "webp/upper-hooded-head-on-bent-gold-rod.webp",
+    "width": 668,
+    "height": 1729,
+    "png_bytes": 593017,
+    "webp_bytes": 420946,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-hooded-head-on-bent-gold-rod.png",
+        "webp": "webp/128/upper-hooded-head-on-bent-gold-rod.webp",
+        "width": 49,
+        "height": 128,
+        "png_bytes": 6463,
+        "webp_bytes": 5468
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-hooded-head-on-bent-gold-rod.png",
+        "webp": "webp/256/upper-hooded-head-on-bent-gold-rod.webp",
+        "width": 99,
+        "height": 256,
+        "png_bytes": 20117,
+        "webp_bytes": 17140
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-hooded-head-on-bent-gold-rod.png",
+        "webp": "webp/512/upper-hooded-head-on-bent-gold-rod.webp",
+        "width": 198,
+        "height": 512,
+        "png_bytes": 66767,
+        "webp_bytes": 49136
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-hooded-head-on-bent-gold-rod.png",
+        "webp": "webp/768/upper-hooded-head-on-bent-gold-rod.webp",
+        "width": 297,
+        "height": 768,
+        "png_bytes": 137660,
+        "webp_bytes": 100762
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Dancing monkeys",
+      "object_identifier": "W.88, fol. 136r",
+      "date": "First quarter 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w88-136r-set",
+        "name": "Walters W.88 Dancing Monkeys"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6216,
+      "height": 7902
+    },
+    "master_longest_dimension_cap": 1729,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
